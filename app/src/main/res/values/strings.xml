@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoApp1</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n Nam in scelerisque sem. Mauris
+        volutpat, dolor id\n interdum ullamcorper, risus dolor egestas lectus, sit\n amet mattis purus
+        dui nec risus. Maecenas non sodales\n nisi, vel dictum dolor. Class aptent taciti sociosqu\n ad
+        litora torquent per conubia nostra, per inceptos\n himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum\n tellus vulputate quis. Aliquam eget libero aliquet,\n imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero\n porta lobortis. Fusce  dictum tellus.\n\n
+
+
+
+    </string>
+</resources>
